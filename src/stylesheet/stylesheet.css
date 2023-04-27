@@ -1,0 +1,34 @@
+.bgMovie {
+  height: 100vh;
+  background-color: black;
+  background-size: cover;
+}
+
+.CardMovie {
+  width: 18rem;
+  margin-bottom: 20px;
+}
+.CardTitle {
+  text-align: center;
+}
+
+.titleMovie {
+  padding-top: 50px;
+  padding-bottom: 25px;
+  text-align: center;
+  color: white;
+  font-weight: 1000;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 5px;
+}
+
+.Movie {
+  flex-direction: column;
+}
+
+.Serch {
+  height: 3rem;
+  width: 20rem;
+  margin-bottom: 20px;
+}
